@@ -1,8 +1,8 @@
-# Generate-Keystore
+## Generate-Keystore
 Generate Keystore React-Native
 
 
-Debug Keystore :-
+## Debug Keystore :-
 ```
 cd android/app/
 
