@@ -1,6 +1,3 @@
-## Generate-Keystore
-Generate Keystore React-Native
-
 
 ## Debug Keystore :-
 ```
